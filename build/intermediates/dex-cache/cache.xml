@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/max/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/max/AndroidStudioProjects/Firebase-Agregar-Datos/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_aad6169441c1adf635ba7542c014ffb206ec1d26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/max/.android/build-cache/a1ab0817c093356a370f984d85754c4cefe8336a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/max/AndroidStudioProjects/Firebase-Agregar-Datos/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_104dd3832f59fd14c8c204277f84ec819dd57787/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/max/.android/build-cache/d661d5540d67c0c4220e75508c42fb08899eaade/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/max/AndroidStudioProjects/Firebase-Agregar-Datos/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c4a4cabbacab383c984d87cdbf1f7b265ffc60cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/max/.android/build-cache/84ebf71478c9211218037577556506e311f1c39d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/max/AndroidStudioProjects/Firebase-Agregar-Datos/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cee761e4fcec2e3ea162b165d72c282388ef80a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/max/AndroidStudioProjects/Firebase-Agregar-Datos/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="96152ae9563b48974201b8e40040134efb93e86d">
+        <dex dex="/home/max/AndroidStudioProjects/Firebase-Agregar-Datos/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e36718ee22f911def8d17f7f0d89cc8ded026185/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/max/.android/build-cache/5a3e9915b05b520c2bc724d760dc722963e36c6b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/max/AndroidStudioProjects/Firebase-Agregar-Datos/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc80b49ac6bcf4f2979925aa8e1f29127e40c3e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/max/.android/build-cache/2d2799607dfc7b6ca81260255fe560ce042cc0c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/max/AndroidStudioProjects/Firebase-Agregar-Datos/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a36884616cb3f7937c5b3c3182e163df3f6f1d70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/max/.android/build-cache/a8f303168b2971c90745bfe482509c069ad36c74/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/max/AndroidStudioProjects/Firebase-Agregar-Datos/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_842a4cb75014d9964af1961228a940e160de1f37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/max/AndroidStudioProjects/Firebase-Agregar-Datos/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/max/AndroidStudioProjects/Firebase-Agregar-Datos/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ca76f2b3d213ab4a515d6d20fd9ace418f459198/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/max/.android/build-cache/7fae2bd9b331eeb1d9ceb94d777c90feecf43780/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/max/AndroidStudioProjects/Firebase-Agregar-Datos/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ade9e669a5371da373f3faee63f9b1b9bb55bd89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/max/.android/build-cache/5e8b6717007dd05be373c1fd0cd527673e577773/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/max/AndroidStudioProjects/Firebase-Agregar-Datos/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46cc841bbb13d7c252d0960730f317433c2a1f7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/max/.android/build-cache/b5bf8a8476b068c67e194186654e2525d62553ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/max/AndroidStudioProjects/Firebase-Agregar-Datos/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4302e007717a025a548c1f369101141b2ab1d06d/classes.dex" />
+    </item>
+
+</items>
